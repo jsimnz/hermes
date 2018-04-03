@@ -1,5 +1,5 @@
 [![Stories in Ready](https://badge.waffle.io/Hermes/hermes.png?label=ready&title=Ready)](https://waffle.io/Hermes/hermes)
-Hermes
+Hermes2
 ======
 
 An open-source distributed storage network. With all the trendy things you love (Ethereum, IPFS, DHTs) ;).
