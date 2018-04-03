@@ -2,7 +2,7 @@
 Hermes
 ======
 
-An open-source distributed unlimited redundant backup solution.
+An open-source distributed storage network. With all the trendy things you love (Ethereum, IPFS, DHTs) ;).
 
 With current backup storage systems, it is all too common to have a high investment, while getting a tiny amount storage, that often come along with privacy issues. Hermes aims to offers a free and open-source network of computers all around the world to provide a distributed and most importantly, anonymous backup solution. The system uses LZMA compression to provide a large amount of network redundancy without having dedicated servers. Files pushed to the network are also encrypted with AES, and split up into blocks to be sent all around the world.
 
